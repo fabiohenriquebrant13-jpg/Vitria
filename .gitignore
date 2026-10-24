@@ -1,0 +1,5 @@
+# Exportações locais de prospecção e credenciais
+data/prospeccao/
+.env
+.env.*
+!.env.example
